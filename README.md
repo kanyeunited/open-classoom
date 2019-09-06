@@ -1,2 +1,2 @@
-# open-classoom
+# open-classroom
 DevC Projects
